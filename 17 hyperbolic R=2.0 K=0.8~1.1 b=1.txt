@@ -1,0 +1,8 @@
+m=-1.000000	K=0.8
+result=3.356729	radius=3
+m=-1.000000	K=0.9
+result=3.519123	radius=1
+m=-1.000000	K=1.0
+result=3.678785	radius=1
+m=-1.000000	K=1.1
+result=3.837361	radius=1

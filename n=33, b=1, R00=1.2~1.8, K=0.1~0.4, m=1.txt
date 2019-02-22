@@ -1,0 +1,18 @@
+Number of lattices vertically n=33
+Number of the lattice spaces the length of the core occupies b=1
+Defect type m=1.000000, Frank constant ratio K=0.100000, aspect ratio R00=1.200000, ring radius=14, total energy=1.200032
+Defect type m=1.000000, Frank constant ratio K=0.100000, aspect ratio R00=1.400000, ring radius=21, total energy=1.394771
+Defect type m=1.000000, Frank constant ratio K=0.100000, aspect ratio R00=1.600000, ring radius=27, total energy=1.611676
+Defect type m=1.000000, Frank constant ratio K=0.100000, aspect ratio R00=1.800000, ring radius=34, total energy=1.826116
+Defect type m=1.000000, Frank constant ratio K=0.200000, aspect ratio R00=1.200000, ring radius=16, total energy=1.775792
+Defect type m=1.000000, Frank constant ratio K=0.200000, aspect ratio R00=1.400000, ring radius=23, total energy=2.042992
+Defect type m=1.000000, Frank constant ratio K=0.200000, aspect ratio R00=1.600000, ring radius=29, total energy=2.332621
+Defect type m=1.000000, Frank constant ratio K=0.200000, aspect ratio R00=1.800000, ring radius=36, total energy=2.640418
+Defect type m=1.000000, Frank constant ratio K=0.300000, aspect ratio R00=1.200000, ring radius=19, total energy=2.284154
+Defect type m=1.000000, Frank constant ratio K=0.300000, aspect ratio R00=1.400000, ring radius=25, total energy=2.613087
+Defect type m=1.000000, Frank constant ratio K=0.300000, aspect ratio R00=1.600000, ring radius=31, total energy=2.965469
+Defect type m=1.000000, Frank constant ratio K=0.300000, aspect ratio R00=1.800000, ring radius=38, total energy=3.348782
+Defect type m=1.000000, Frank constant ratio K=0.400000, aspect ratio R00=1.200000, ring radius=22, total energy=2.740617
+Defect type m=1.000000, Frank constant ratio K=0.400000, aspect ratio R00=1.400000, ring radius=28, total energy=3.123889
+Defect type m=1.000000, Frank constant ratio K=0.400000, aspect ratio R00=1.600000, ring radius=34, total energy=3.530623
+Defect type m=1.000000, Frank constant ratio K=0.400000, aspect ratio R00=1.800000, ring radius=41, total energy=3.978462
